@@ -1,0 +1,9 @@
+.products {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  grid-gap: 5px;
+}
+
+.Product img {
+  width: 45%;
+}
